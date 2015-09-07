@@ -1,0 +1,53 @@
+# Portfoilio Settings
+title: Artists Theme
+description: Thinker // Designer // Youtuber
+email: artist@email.com
+
+#MENU ITEM LIST
+
+menu: 
+- {name: About Me, url: '#about-me'}
+- {name: Work, url: '#work'}
+- {name: Clients, url: '#clients'}
+- {name: Contact, url: '#contact'}
+
+skills: 
+- {name: Communication, value: '9'}
+- {name: Organization, value: '7'}
+- {name: Learning, value: '8'}
+- {name: Teaching, value: '6'}
+- {name: Planning, value: '7'}
+- {name: Visual Design, value: '5'}
+- {name: UX Design, value: '8'}
+- {name: Programming, value: '9'}
+
+projects:
+- {name: Typo International Design, folder: 'proj-1'}
+- {name: City-In Website Concept, folder: 'proj-2'}
+- {name: Crispy Icons, folder: 'proj-3'}
+- {name: Flat Mobile UI/UX Concept, folder: 'proj-4'}
+- {name: Fresh It Ip, folder: 'proj-5'}
+- {name: Timeline Page, folder: 'proj-6'}
+- {name: Weather Dashboard, folder: 'proj-7'}
+- {name: Stripes & Co, folder: 'proj-8'}
+
+clients:
+- {avatar: 'face-aaroni.jpg' ,name: 'Scott Summers', title: 'Director of Design, Quebec Inc', logo: 'logo1.png', quote: '<p><strong>Duis aute irure dolor</strong> in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>'}
+- {avatar: 'face-atariboy.jpg' ,name: 'Scott Summers', title: 'Director of Design, Quebec Inc', logo: 'logo2.png', quote: '<p><strong>Duis aute irure dolor</strong> in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>'}
+- {avatar: 'face-jackiesaik.jpg' ,name: 'Scott Summers', title: 'Director of Design, Quebec Inc', logo: 'logo3.png', quote: '<p><strong>Duis aute irure dolor</strong> in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>'}
+- {avatar: 'face-teleject.jpg' ,name: 'Scott Summers', title: 'Director of Design, Quebec Inc', logo: 'logo4.png', quote: '<p><strong>Duis aute irure dolor</strong> in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>'}
+
+social:
+- {icon: 'twitter', link: ''}
+- {icon: 'dribbble', link: ''}
+- {icon: 'behance', link: ''}
+- {icon: 'youtube', link: ''}
+- {icon: 'linkedin', link: ''}
+
+
+
+logo: 'logo.svg'
+bg-img: 'hero-bg.jpg'
+
+avatar: 'turtle.jpg'
+blurb: <p><strong>Lorem ipsum dolor sit amet,</strong> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
